@@ -1,6 +1,6 @@
 ## Assalamualaikum 👋
 
-- 🔭 I’m currently working on Frontedn Web development
+- 🔭 I’m currently working on Frontend Web development
 - 🌱 I’m currently learning React.JS
 - 👍 I Love Frontend Design .
 
