@@ -13,8 +13,6 @@ I'm MD Abdur Rahman Sagor, a passionate Frontend Web Developer from Bangladesh. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdabdurrahmansagor/) 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=SAGOR1012&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 # 💻 Tech Stack:
@@ -30,4 +28,6 @@ I'm MD Abdur Rahman Sagor, a passionate Frontend Web Developer from Bangladesh. 
 
 
 
+---
+[![](https://visitcount.itsvg.in/api?id=SAGOR1012&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
