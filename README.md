@@ -1,8 +1,7 @@
 ## Assalamualaikum 👋
 
-- 🔭 I’m currently working on Frontend Web development
-- 🌱 I’m currently learning React.JS
-- 👍 I Love Frontend Design .
+- 🔭 I’m currently working on Frontend Web development & learning React.JS
+- 👍 I Love Frontend Design.
 
 ## About Me :
 I'm MD Abdur Rahman Sagor, a passionate Frontend Web Developer from Bangladesh. I specialize in creating custom websites that are both visually stunning and functionally efficient. Currently pursuing my Bachelor of Science in Engineering, I aim to grow into a skilled developer and a hardworking entrepreneur within the next five years. 🚀✨
